@@ -1,0 +1,30 @@
+{
+    "name": "haze-theme",
+    "displayName": "Haze Theme",
+    "description": "An elegant light theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "publisher": "dnsv",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "light"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Haze",
+                "uiTheme": "vs",
+                "path": "./themes/haze.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dnsv/haze-theme"
+    }
+}
