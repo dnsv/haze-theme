@@ -11,11 +11,6 @@ class Foobar extends Off
      */
     private $foo;
 
-    public function __construct()
-    {
-        $foo = 'foobar';
-    }
-
     /**
      * Comment.
      *
@@ -24,6 +19,7 @@ class Foobar extends Off
      */
     public function doSomething($bar)
     {
+        $this->foo = $bar;
         $arr = [];
         foreach ($this->getValues() as $key => $value) {
             if ($key % 2 == 0) {

@@ -10,7 +10,7 @@
 		"breadcrumb.background": "#E1E4E8",
 		"breadcrumb.focusForeground": "#000000",
 		"breadcrumb.foreground": "#646464",
-		"editor.background": "#ffffff",
+		"editor.background": "#fdfdfd",
 		"editor.foreground": "#24292e",
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
@@ -49,8 +49,8 @@
 		"statusBar.noFolderForeground": "#24292e",
 		"statusBarItem.prominentBackground": "#00000000",
 		"statusBarItem.prominentHoverBackground": "#dddddd",
-		"tab.activeBackground": "#ffffff",
-		"tab.activeBorderTop": "#ffffff",
+		"tab.activeBackground": "#fdfdfd",
+		"tab.activeBorderTop": "#fdfdfd",
 		"tab.activeForeground": "#000000",
 		"tab.border": "#e1e4e8",
 		"tab.inactiveBackground": "#fafbfc",
@@ -71,7 +71,7 @@
 				"punctuation.definition.block.js"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -112,7 +112,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -278,7 +278,7 @@
 		{
 			"scope": "storage.type.php",
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -312,7 +312,7 @@
 				"string.quoted.double.handlebars"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -329,7 +329,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -372,7 +372,7 @@
 				"variable.other.less"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -391,19 +391,19 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#581cc7"
+				"foreground": "#001080"
 			}
 		},
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
 			"scope": "keyword.operator.logical.python",
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -463,7 +463,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -494,7 +494,7 @@
 				"support.other.namespace.php"
 			],
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -506,7 +506,7 @@
 		{
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -520,7 +520,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -552,7 +552,7 @@
 				"variable.parameter.function-call.python"
 			],
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -562,7 +562,7 @@
 				"meta.object-literal.key entity.name.function"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -660,7 +660,7 @@
 		{
 			"scope": "support.class.builtin",
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		},
 		{
@@ -668,7 +668,7 @@
 				"meta.function-call.generic.python"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -676,7 +676,7 @@
 				"variable.other.object.js"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#005cc5"
 			}
 		},
 		{
@@ -688,7 +688,7 @@
 		{
 			"scope": "storage.type.function.arrow.js",
 			"settings": {
-				"foreground": "#005cc5"
+				"foreground": "#001080"
 			}
 		}
 	]

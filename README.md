@@ -1,1 +1,3 @@
-![Screenshots](assets/screenshots.gif)
+# Haze
+
+![Screenshot](assets/screenshot.gif)
