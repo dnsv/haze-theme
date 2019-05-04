@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.6] - 2019-05-04
+
+- Change the background color for search results to yellow.
+
 ## [0.0.5] - 2019-04-28
 
 - Updated the screenshots.

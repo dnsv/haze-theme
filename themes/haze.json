@@ -12,6 +12,7 @@
 		"breadcrumb.foreground": "#646464",
 		"editor.background": "#fdfdfd",
 		"editor.foreground": "#24292e",
+		"editor.findMatchHighlightBackground": "#fff2b9",
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
 		"editorGroupHeader.tabsBackground": "#f2f4f5",
