@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.7] - 2019-05-16
+
+- Change string color in yaml files to blue.
+
 ## [0.0.6] - 2019-05-04
 
 - Change the background color for search results to yellow.

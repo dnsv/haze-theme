@@ -303,6 +303,7 @@
 				"string.unquoted.plain.out.yaml",
 				"string.unquoted.block.yaml",
 				"string.quoted.single.yaml",
+				"string.quoted.double.yaml",
 				"string.quoted.double.xml",
 				"string.quoted.single.xml",
 				"string.unquoted.cdata.xml",
