@@ -462,11 +462,11 @@
 			}
 		},
 		{
-			"name": "Function declarations",
 			"scope": [
 				"entity.name.function",
 				"support.constant.handlebars",
-				"support.function"
+				"support.function",
+				"punctuation.definition.decorator.python"
 			],
 			"settings": {
 				"foreground": "#005cc5"
@@ -497,7 +497,8 @@
 				"storage.type.object.array.groovy",
 				"storage.type.primitive.array.groovy",
 				"storage.type.primitive.groovy",
-				"support.other.namespace.php"
+				"support.other.namespace.php",
+				"entity.name.function.decorator.python"
 			],
 			"settings": {
 				"foreground": "#001080"

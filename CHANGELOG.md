@@ -1,6 +1,10 @@
 # Change Log
 
-## [0.0.7] - 2019-05-16
+## [0.0.9] - 2019-05-30
+
+- Update python decorator colors to be consistent.
+
+## [0.0.8] - 2019-05-16
 
 - Add colors to ini files.
 
