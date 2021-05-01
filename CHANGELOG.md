@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.10] - 2021-05-02
+
+- Update python colors.
+
 ## [0.0.9] - 2019-05-30
 
 - Update python decorator colors to be consistent.
