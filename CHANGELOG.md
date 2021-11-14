@@ -1,8 +1,10 @@
 # Change Log
 
-## [0.0.10] - 2021-05-02
+## [0.1.0] - 2021-05-02
 
 - Update python colors.
+- Add border for active tab.
+- Change gutter color to grey.
 
 ## [0.0.9] - 2019-05-30
 

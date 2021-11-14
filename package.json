@@ -2,7 +2,7 @@
     "name": "haze-theme",
     "displayName": "Haze Theme",
     "description": "An elegant light theme for Visual Studio Code.",
-    "version": "0.0.10",
+    "version": "0.1.0",
     "publisher": "dnsv",
     "icon": "assets/icon.png",
     "engines": {
