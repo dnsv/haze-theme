@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.0] - 2023-02-09
+
+- Updated colors in TOML files.
+
 ## [0.1.0] - 2021-05-02
 
 - Update python colors.
