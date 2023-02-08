@@ -507,7 +507,10 @@
 				"storage.type.primitive.array.groovy",
 				"storage.type.primitive.groovy",
 				"support.other.namespace.php",
-				"entity.name.function.decorator.python"
+				"entity.name.function.decorator.python",
+				"support.type.property-name.toml",
+				"support.type.property-name.array.toml",
+				"support.type.property-name.table.toml"
 			],
 			"settings": {
 				"foreground": "#000095"
