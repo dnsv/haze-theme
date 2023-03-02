@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.2] - 2023-03-02
+
+- Add colors for inlay hints.
+
 ## [0.2.0] - 2023-02-09
 
 - Updated colors in TOML files.

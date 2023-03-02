@@ -70,7 +70,9 @@
 		"gitlens.gutterBackgroundColor": "#f6f7f8",
 		"gitlens.gutterForegroundColor": "#586069",
 		"list.focusBackground": "#c8e1ff",
-		"focusBorder": "#c8e1ff00"
+		"focusBorder": "#c8e1ff00",
+		"editorInlayHint.foreground": "#808080",
+		"editorInlayHint.background": "#ffffff00"
 	},
 	"tokenColors": [
 		{
@@ -740,5 +742,5 @@
 		"class:python": "#000095",
 		"module:python": "#000095",
 		"variable.readonly:python": "#005cc5"
-	},
+	}
 }

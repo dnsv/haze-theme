@@ -1,31 +1,32 @@
 {
-    "name": "haze-theme",
-    "displayName": "Haze Theme v2",
-    "description": "An elegant light theme for Visual Studio Code.",
-    "version": "0.2.0",
-    "publisher": "soissons",
-    "icon": "assets/icon.png",
-    "engines": {
-        "vscode": "^1.33.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "light"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Haze",
-                "uiTheme": "vs",
-                "path": "./themes/haze.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/dnsv/haze-theme"
-    }
+  "name": "haze-theme",
+  "displayName": "Haze Theme v2",
+  "description": "An elegant light theme for Visual Studio Code.",
+  "version": "0.2.2",
+  "publisher": "soissons",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Haze",
+        "uiTheme": "vs",
+        "path": "./themes/haze.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnsv/haze-theme"
+  }
 }
